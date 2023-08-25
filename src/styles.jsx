@@ -41,10 +41,6 @@ export const Form = styled.form`
     }
 `;
 
-export const Checkbox = styled.div`
-
-`;
-
 export const ButtonSignUp = styled.button`
     width: 100%;
     height: 40px;
@@ -61,4 +57,8 @@ export const ButtonSignUp = styled.button`
     &:hover{
             background-color:#581688;
         }
+`;
+
+export const TextDiv = styled.div`
+    font-size: 14px;
 `;
