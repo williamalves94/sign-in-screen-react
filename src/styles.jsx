@@ -28,7 +28,7 @@ export const SignUpDiv = styled.div`
 export const Form = styled.form`    
     input{
         width: 100%;
-        height: 40px;
+        height: 50px;
         margin-bottom: 20px;
         border: 2px solid #4B0082;
         border-radius: 12px;
@@ -43,7 +43,7 @@ export const Form = styled.form`
 
 export const ButtonSignUp = styled.button`
     width: 100%;
-    height: 40px;
+    height: 45px;
     background-color: #4B0082;
     border-radius: 12px;
     border: none;
