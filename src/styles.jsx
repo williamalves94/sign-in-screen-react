@@ -61,4 +61,9 @@ export const ButtonSignUp = styled.button`
 
 export const TextDiv = styled.div`
     font-size: 14px;
+    color: #3388aa;
+    a{
+        text-decoration: none;
+        color: #3388aa;
+    }
 `;
